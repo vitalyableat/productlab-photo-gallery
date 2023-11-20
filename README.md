@@ -10,4 +10,9 @@
 
 ### Where can I get environment variables?
 
-Text [me in Telegram](https://t.me/vitalyableat)
+Text [me in Telegram](https://t.me/vitalyableat).
+
+### How can I log in to the app?
+
+Use credentials of one of the existing users or add yours.
+You can find list of users in ```server/users.json``` file.
