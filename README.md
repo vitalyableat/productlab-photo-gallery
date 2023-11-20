@@ -5,10 +5,11 @@
 
 - pull the repository
 - run ```npm install``` to install dependencies
+- add ```.env``` file
 - start server ```npm run server```
 - start app ```npm run dev```
 
-### Where can I get environment variables?
+### Where can I get ```.env``` file?
 
 Text [me in Telegram](https://t.me/vitalyableat).
 
